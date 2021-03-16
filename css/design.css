@@ -2,6 +2,10 @@ body {
 background-color: pink;
 }
 
+form {
+background-color: #d4af37;
+}
+
 h1, h2 {
   text-align: center;
 }
@@ -21,7 +25,6 @@ input {
   margin: auto;
   border: 1px solid #ccc;
   border-radius: 6px;
-  background-color: #d4af37;
 }
 
 .fontsize {
