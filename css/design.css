@@ -7,5 +7,6 @@ h1, h2 {
 }
 
 label {
-  text-align: center;
+  width: 240px;
+  display: inline-block;
 }
