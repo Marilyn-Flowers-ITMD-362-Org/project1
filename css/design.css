@@ -6,15 +6,6 @@ h1, h2 {
   text-align: center;
 }
 
-
-label{
+form {
     display: inline-block;
-    float: center;
-    clear: left;
-    width: 250px;
-    text-align: right;
-}
-input {
-  display: inline-block;
-  float: center;
 }
