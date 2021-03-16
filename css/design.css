@@ -13,3 +13,47 @@ form {
   background: #daa520;
     
 }
+
+@media screen and (min-width: 510px) {
+  #container {
+    text-align: center;
+    margin: 3% auto 0 auto;
+    width: 65%;
+  }
+  
+  .fontsize {
+    font-size: 1.2em;
+  }
+  
+  input {
+    width:100%;
+    align-self: center;
+  }
+  
+   fieldset
+  {
+    text-align: center;
+  }
+  
+  .submit {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    font-size: 0.9em;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  #container{
+    margin-right: 3%;
+  }
+  
+  .fontsize {
+    font-size: 1em;
+  }
+  
+  .submit {
+    width: 26%;
+  }
+    
+}
