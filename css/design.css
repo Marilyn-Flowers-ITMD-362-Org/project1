@@ -2,10 +2,7 @@ body {
 background-color: pink;
 }
 
-form {
-background-color: #d4af37;
-  width: 97%
-}
+
 
 h1, h2 {
   text-align: center;
@@ -17,6 +14,7 @@ label {
   font-size: 1.5em;
   width: 97%;
   margin: auto;
+  background-color: #d4af37;
 }
 
 input {
